@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallo everyone let me introduce myself Rizal Ahmad Mulyanto
 
 <!--
 **RIZAL-MULYANTO/RIZAL-MULYANTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
